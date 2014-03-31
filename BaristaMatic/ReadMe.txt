@@ -1,6 +1,6 @@
 This folder contains the Barist-matic Programming assignment
 
-Author- Sahana S Mallya
+Author- Sahana Sachindra Mallya
 
 This package contains the following files.
 
